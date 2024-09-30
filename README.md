@@ -2,6 +2,8 @@
 <h2 align="center">SaaS Developer with over 100 MVPs deployed.</h2>
 <h3 align="center">Private equity and e-commerce specialist (Private-label).</h3>
 
+> Hyperlinks are not supported for external websites in Markdown, so just copy & paste the links in a new tab.
+
 - Founder of [Million Venture](www.millionventure.com) & [WebWiped](www.webwiped.com).
 - Sales Consultant at [VIS Integrated](www.visintegrated.com).
 - Computer Science undergraduate @ University of Leeds.
