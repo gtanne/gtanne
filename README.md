@@ -15,7 +15,7 @@
 >👍 **Check out my personal portfolio at [www.hins.io](www.hins.io)!**
 >
 > Quarterly financial reports are disclosed *privately*.  
-> Click **[here](https://www.linkedin.com/in/hinsliu/)** for my LinkedIn.
+> Visit my LinkedIn (https://www.linkedin.com/in/hinsliu/).
 
 ### 2025 Objectives
 - Develop WebWiped and scale MRR. 
