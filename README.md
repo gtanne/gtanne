@@ -18,7 +18,7 @@
 > Visit my LinkedIn (https://www.linkedin.com/in/hinsliu/).
 
 ### 2025 Objectives
-- Develop WebWiped and scale MRR. 
+- Develop WebWiped and scale to a decent MRR. 
 - Have a solid grasp of embedded C.
 - Learn more about cybersecurity.
 
