@@ -4,7 +4,7 @@
 
 > Hyperlinks are not supported for external websites in Markdown, so just copy & paste the links in a new tab, or visit my blog at www.hins.io
 
-- Founder of Million Venture (www.millionventure.com)
+- Founder of Million Venture (www.millionventure.com).
 - Co-founder WebWiped (www.webwiped.com).
 - Sales Consultant at  VIS Media Company (www.visintegrated.com).
 - Computer Science undergraduate @ University of Leeds.
