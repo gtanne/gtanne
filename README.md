@@ -1,5 +1,5 @@
 <h1 align="center">你好，這裡是 Hins Tuan.</h1>
-<h2 align="center">SaaS Developer with over 100 MVPs deployed.</h2>
+<h2 align="center">SaaS Developer with over 25 MVPs deployed.</h2>
 <h3 align="center">Private equity and e-commerce specialist (Private-label).</h3>
 
 - Founder of Million Venture (www.millionventure.com).
