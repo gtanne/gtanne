@@ -3,8 +3,8 @@
 <h3 align="center">Private equity and e-commerce specialist (Private-label).</h3>
 
 - Founder of Million Venture (www.millionventure.com).
+- Sales Executive at  VIS Media Company (www.visintegrated.com).
 - Co-founder WebWiped (www.webwiped.com).
-- Sales Consultant at  VIS Media Company (www.visintegrated.com).
 - Computer Science undergraduate @ University of Leeds.
 - Currently learning: **Rust** & **Python**.
 
@@ -12,11 +12,10 @@
 
 >👍 **Check out my personal portfolio at www.hins.io !**
 >
-> Quarterly financial reports are disclosed *privately*.  
 > Visit my LinkedIn (https://www.linkedin.com/in/hinsliu/).
 
 ### 2025 Objectives
-- Develop WebWiped and scale to a decent MRR. 
+- Develop projects and scale to a decent MRR. 
 - Have a solid grasp of embedded C.
 - Learn more about cybersecurity.
 
